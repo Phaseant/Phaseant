@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phaseant
-- 👀 I’m interested in iOS dev, programming, study, videogames and films
-- 🌱 I’m currently learning C# .Net MAUI Framework
+- 👀 I’m interested in Development, programming, study, videogames and films
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: telegram @phaseant
 
 <!---
