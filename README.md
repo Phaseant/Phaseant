@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phaseant
 - 👀 I’m interested in software development, programming, videogames and films
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently working at Go
 - 📫 How to reach me: telegram @phaseant
 
 <!---
